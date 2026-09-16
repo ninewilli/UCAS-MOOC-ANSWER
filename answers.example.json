@@ -1,0 +1,25 @@
+{
+  "answers": [
+    {
+      "question": "Python 中哪个关键字用于定义函数？",
+      "type": "single",
+      "answer": "B"
+    },
+    {
+      "question": "下列哪些属于 Python 内置容器？",
+      "type": "multiple",
+      "answer": ["A", "C"]
+    },
+    {
+      "question": "Python 是解释型语言。",
+      "type": "judge",
+      "answer": "正确"
+    },
+    {
+      "question": "请填写课程名称",
+      "type": "text",
+      "answer": "示例课程"
+    }
+  ]
+}
+

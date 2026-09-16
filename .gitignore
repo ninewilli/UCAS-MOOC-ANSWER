@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.chrome-profile/
+.chrome-submit-test/
+answers.json
+page_diagnostic.json
