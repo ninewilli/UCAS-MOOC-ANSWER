@@ -2,7 +2,10 @@
 
 参考 `HangboZhu/ucas-mooc-automate` 的 Selenium 使用方式编写。程序读取你准备好的本地答案表，填写当前测验页面中的单选、多选、判断和文本题，并把成功、歧义和未匹配项打印出来。填写成功后会选择页面中的“暂时保存”。
 
-
+可以直接用以下代码
+```powershell
+python main.py --answers answers.json --auto --submit --profile-dir .chrome-profile --url "你的慕课网址"
+```
 
 ## 安装
 
